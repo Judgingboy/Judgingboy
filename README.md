@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hai, I am <span style="color: #007BFF;">Hari</span>
+    Hi, I'm <a href="#">Hari</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
   </h1>
 </div>
@@ -15,10 +15,10 @@
 
 
 <div align="left">
-  <h2>
+  <h1>
     <img width="30" align="center" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
-    &nbsp;My Stats
-  </h2>
+    &nbsp;My Stats:
+  </h1>
 </div>
 <br />
 <div>
@@ -31,4 +31,3 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judgingboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </p>
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
