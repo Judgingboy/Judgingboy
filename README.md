@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi, I am <a href="#">Hari</a>
+    Hai, I am <span style="color: #007BFF;">Hari</span>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
   </h1>
 </div>
@@ -21,20 +21,14 @@
   </h2>
 </div>
 <br />
-<div align="center">
-  <p>
+<div>
+  <p align="center">
     <img height="160" alt="Hari's GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=Judgingboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  </p>
-
-  <p>
+    <img height="160" alt="Hari's Streak"
+      src="https://nirzak-streak-stats.vercel.app/?user=Judgingboy&theme=tokyonight&hide_border=false" />
     <img height="160" alt="Hari's Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judgingboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </p>
-
-  <p>
-    <img height="160" alt="Hari's Streak"
-      src="https://nirzak-streak-stats.vercel.app/?user=Judgingboy&theme=tokyonight&hide_border=false" />
-  </p>
 </div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
