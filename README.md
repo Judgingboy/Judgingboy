@@ -15,10 +15,10 @@
 
 
 <div align="left">
-  <h2>
-    <img width="30" align="center" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
+  <h1>
+    <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
     &nbsp;My Stats
-  </h2>
+  </h1>
 </div>
 <br />
 <div>
