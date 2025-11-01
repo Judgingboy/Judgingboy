@@ -1,22 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">I'm a Full-Stack Developer | Python Programmer</h3>
+# 💫 About Me:
+👨🏻‍💻 I’m currently working on Full Stack Web Development 🌐<br>🎓 I’m currently learning React, Git, and Node.js ⚡<br>💬 I’m looking to collaborate on Open-source projects using Python, React, or Java 💻<br>🤝 I’m looking for help with AI/ML — exploring model optimization and real-world deployment 🚀<br>💬 Ask me about Full-stack development, clean UI design, or anything tech-related 😄
 
-- 👨🏻‍💻 I’m currently working on **Full Stack Web Development 🌐**
-
-- 🎓 I’m currently learning **React, Git, and Node.js ⚡**
-
-- 💬 I’m looking to **collaborate on Open-source projects using Python, React, or Java 💻**
-
-- 🤝 I’m looking for help with **AI/ML — exploring model optimization and real-world deployment 🚀**
-
-- 💬 Ask me about **Full-stack development, clean UI design, or anything tech-related 😄**
-
-- 📫 How to reach me **harishankarsaju22@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harishankarsaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishankarsaju" height="30" width="40" /></a>
-</p>
 
 
 # 💻 Tech Stack:
