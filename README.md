@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>
+    Hai, I am <span style="color: #007BFF;">Hari</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  </h1>
+</div>
+
 # 💫 About Me:
 👨🏻‍💻 I’m currently working on Full Stack Web Development 🌐<br>🎓 I’m currently learning React, Git, and Node.js ⚡<br>💬 I’m looking to collaborate on Open-source projects using Python, React, or Java 💻<br>🤝 I’m looking for help with AI/ML — exploring model optimization and real-world deployment 🚀<br>💬 Ask me about Full-stack development, clean UI design, or anything tech-related 😄
 
