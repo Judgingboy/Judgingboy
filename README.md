@@ -6,6 +6,20 @@
 
   <!-- img added below -->
   <img alt ="Developer pic" src="home_anime.f372ef86.gif" width="540"/>
+      <br/><br/>
+    <p>🙏🏻 Welcome to my Github profile !<br />
+        I am a <b>Full Stack Developer | Python Programmer</b> <img alt="a cat that is sitting on a laptop" title="cattyping random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514285/2559/cattyping.gif?1643514285"> from <b>Kerala, India</b> 🇮🇳
+        I love tinkering with code 🧩 and exploring new technologies 🚀</p>
+    <div>
+        <a href="https://www.linkedin.com/in/harishankarsaju" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:harishankarsaju22@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+       <a href="https://wa.me/918281302935" target="_blank"><img alt="Whatsapp"
+                src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="https://t.me/Judgingboy"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
+    </div>
 
 </div>
 
