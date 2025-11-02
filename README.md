@@ -8,7 +8,7 @@
   <img alt ="Developer pic" src="home_anime.f372ef86.gif" width="540"/>
       <br/><br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
-        I am a <b>Full Stack Developer | Python Programmer</b> <img alt="a cat that is sitting on a laptop" title="cattyping random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514285/2559/cattyping.gif?1643514285"> from <b>Kerala, India</b> 🇮🇳
+        I am a <b>Full Stack Developer | Python Programmer</b> <img alt="a cat that is sitting on a laptop" title="cattyping random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514285/2559/cattyping.gif?1643514285" width =10 height =10> from <b>Kerala, India</b> 🇮🇳<br>
         I love tinkering with code 🧩 and exploring new technologies 🚀</p>
     <div>
         <a href="https://www.linkedin.com/in/harishankarsaju" target="_blank"><img alt="LinkedIn"
